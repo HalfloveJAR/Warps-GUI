@@ -1,0 +1,11 @@
+name: WarpsGUI
+version: ${project.version}
+main: us.halflove.warpsgui.Main
+api-version: 1.16
+authors: [ Halflove ]
+description: ${project.description}
+
+commands:
+  warps:
+    usage: /warps
+    description: Open warps menu
